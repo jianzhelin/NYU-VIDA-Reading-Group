@@ -4,6 +4,6 @@
 Date                                                           Presenter                              Paper or topic
 --------------------------------------------------------------------------------------------------------------------------
 Sep. 25                                                        Jianzhe Lin                             Multi-Object Tracking
-                                                                                                       Simple Online and Realtime Tracking with a Deep Association Metric[link](https://arxiv.org/abs/1703.07402)
+                                                                                                       Simple Online and Realtime Tracking with a Deep Association Metric[link](https://arxiv.org/abs/1703.07402/)
 
 ```
