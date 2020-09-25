@@ -4,4 +4,6 @@ You can use the [editor on GitHub](https://github.com/Ryan315/TL/edit/gh-pages/i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Upcoming presentations
+'''
 **Date	Presenter	Paper or topic**
+'''
