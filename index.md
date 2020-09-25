@@ -1,4 +1,6 @@
-## VIDA Reading Group
+## To subscribe to the mailing list for talk announcements, send a message to jianzhelin@nyu.edu with the words subscribe cvrg-l in the body.
+
+## A list of upcoming papers can be found below. To be added to the schedule contact Shih-Han (shchou75@cs.ubc.ca).
 
 You can use the [editor on GitHub](https://github.com/Ryan315/TL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
