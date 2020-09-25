@@ -9,5 +9,5 @@ Oct. 6               Shuya Zhao               3D Calibration
 
 ```markdown 
 Sep. 29              Jianzhe Lin              Multi-Object Tracking
-                                              Simple Online and Realtime Tracking with a Deep Association Metric<https://arxiv.org/abs/1703.07402>
+                                              Simple Online and Realtime Tracking with a Deep Association Metric
 ```
