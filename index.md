@@ -3,6 +3,12 @@
 ### Upcoming presentations
 
 &emsp;**Date** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Presenter** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Topic and Paper**
+
+```markdown 
+Oct. 20               Eric Tokuda             Crowd Counting
+                                              A survey of recent advances in CNN-based single image crowd
+```
+
 ```markdown 
 Oct. 13               Jorge Piazentin Ono     Light Detection
                                               VATLD: A Visual Analytics System to Assess, Understand and Improve T raffic Light Detection
