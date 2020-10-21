@@ -3,6 +3,10 @@
 ### Upcoming presentations
 
 &emsp;**Date** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Presenter** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Topic and Paper**
+```markdown 
+Oct. 27               Peter Xenopoulos        Computer vision for sports
+                                              Computer vision for sports: Current applications and research topics 
+```
 
 ```markdown 
 Oct. 20               Eric Tokuda             Crowd Counting
