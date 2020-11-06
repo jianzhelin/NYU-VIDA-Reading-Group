@@ -4,7 +4,12 @@
 
 &emsp;**Date** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Presenter** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Topic and Paper**
 ```markdown 
-Oct. 27               Peter Xenopoulos        Computer vision for sports
+Nov. 9               Ke Xu                    Decision making
+                                              Fairsight: Visual Analytics for Fairness in Decision Making 
+```
+
+```markdown 
+Nov. 6               Peter Xenopoulos        Computer vision for sports
                                               Computer vision for sports: Current applications and research topics 
 ```
 
