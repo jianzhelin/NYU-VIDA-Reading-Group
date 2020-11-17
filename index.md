@@ -4,6 +4,11 @@
 
 &emsp;**Date** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Presenter** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Topic and Paper**
 ```markdown 
+Nov. 18              Shaoyu Chen              Data Visualization Toolkit
+                                              NL4DV: A Toolkit for Generating Analytic Specifications for Data Visualization from Natural Language Queries 
+```
+
+```markdown 
 Nov. 9               Ke Xu                    Decision making
                                               Fairsight: Visual Analytics for Fairness in Decision Making 
 ```
