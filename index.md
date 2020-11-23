@@ -4,6 +4,10 @@
 
 &emsp;**Date** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Presenter** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Topic and Paper**
 ```markdown 
+Nov. 24              Yurii Piadyk             Tracking
+                                              Learning Correspondence from the Cycle-consistency of Time 
+```
+```markdown 
 Nov. 18              Shaoyu Chen              Data Visualization Toolkit
                                               NL4DV: A Toolkit for Generating Analytic Specifications for Data Visualization from Natural Language Queries 
 ```
