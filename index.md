@@ -4,6 +4,10 @@
 
 &emsp;**Date** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Presenter** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Topic and Paper**
 ```markdown 
+Nov. 31              Bruno Coelho             Motion Capture
+                                              A Primer on Motion Capture with Deep Learning: Principles, Pitfalls, and Perspectives 
+```
+```markdown 
 Nov. 24              Yurii Piadyk             Tracking
                                               Learning Correspondence from the Cycle-consistency of Time 
 ```
