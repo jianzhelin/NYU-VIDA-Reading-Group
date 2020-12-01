@@ -4,7 +4,11 @@
 
 &emsp;**Date** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Presenter** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Topic and Paper**
 ```markdown 
-Nov. 31              Bruno Coelho             Motion Capture
+Dec. 8              Gromit Chan               Graph Convolutional Network 
+                                              DDGCN: A Dynamic Directed Graph Convolutional Network for Action Recognition 
+```
+```markdown 
+Dec. 1              Bruno Coelho             Motion Capture
                                               A Primer on Motion Capture with Deep Learning: Principles, Pitfalls, and Perspectives 
 ```
 ```markdown 
