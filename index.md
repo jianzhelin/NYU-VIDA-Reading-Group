@@ -4,6 +4,10 @@
 
 &emsp;**Date** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Presenter** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Topic and Paper**
 ```markdown 
+Jan. 5, 2021        Joao Rulff                UX lab 
+                                              Uplift: A Tangible and Immersive Tabletop System for Casual Collaborative Visual Analytics
+```
+```markdown 
 Dec. 8              Gromit Chan               Graph Convolutional Network 
                                               DDGCN: A Dynamic Directed Graph Convolutional Network for Action Recognition 
 ```
