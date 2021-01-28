@@ -4,6 +4,22 @@
 
 &emsp;**Date** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Presenter** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Topic and Paper**
 ```markdown 
+Jan. 5, 2021        Jorge Piazentin Ono       Human-Building Interactions
+                                              Socio-Spatial Comfort: Using Vision-based Analysis to Inform User-Centred Human-Building Interactions
+```
+```markdown 
+Jan. 5, 2021        Jianzhe Lin               Knowledge distillation 
+                                              Distilling the Knowledge in a Neural Network
+```
+```markdown 
+Jan. 5, 2021        Shuya Zhao                Crowd Counting 
+                                              Attention Scaling for Crowd Counting 
+```
+```markdown 
+Jan. 5, 2021        maryam hosseini           Sidewalk
+                                              Project Sidewalk: A Web-based Crowdsourcing Tool for Collecting Sidewalk Accessibility Data At Scale
+```
+```markdown 
 Jan. 5, 2021        Joao Rulff                UX lab 
                                               Uplift: A Tangible and Immersive Tabletop System for Casual Collaborative Visual Analytics
 ```
