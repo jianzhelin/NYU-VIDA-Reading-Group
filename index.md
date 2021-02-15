@@ -4,8 +4,12 @@
 
 &emsp;**Date** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Presenter** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Topic and Paper**
 ```markdown 
-Feb. 16, 2021        Jorge Piazentin Ono      Human-Building Interactions
+Feb. 23, 2021        Jorge Piazentin Ono      Human-Building Interactions
                                               Socio-Spatial Comfort: Using Vision-based Analysis to Inform User-Centred Human-Building Interactions
+```
+```markdown 
+Feb. 16, 2021        James Tompkin            Scene Reconstruction
+                                              Differentiable Rendering Three Ways for Multi-camera Scene Reconstruction
 ```
 ```markdown 
 Feb. 9, 2021        Jonathas Costa            Renderer
