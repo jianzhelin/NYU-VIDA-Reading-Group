@@ -4,6 +4,10 @@
 
 &emsp;**Date** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Presenter** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Topic and Paper**
 ```markdown 
+Apr. 13, 2021        Qi Sun                   Human Interactions
+                                              Human Hand Moves Proactively to the External Stimulus: An Evolutional Strategy for Minimizing Transient Error
+```
+```markdown 
 Apr. 06, 2021        Jorge Piazentin Ono      Human-Building Interactions
                                               Socio-Spatial Comfort: Using Vision-based Analysis to Inform User-Centred Human-Building Interactions
 ```
