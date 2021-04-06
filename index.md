@@ -4,7 +4,7 @@
 
 &emsp;**Date** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Presenter** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Topic and Paper**
 ```markdown 
-Feb. 23, 2021        Jorge Piazentin Ono      Human-Building Interactions
+Apr. 06, 2021        Jorge Piazentin Ono      Human-Building Interactions
                                               Socio-Spatial Comfort: Using Vision-based Analysis to Inform User-Centred Human-Building Interactions
 ```
 ```markdown 
