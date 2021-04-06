@@ -1,4 +1,4 @@
-## To subscribe to the mailing list for talk announcements, send a message to **<jianzhelin@nyu.edu>** with the words subscribe vidarg-l. 
+## To subscribe to the mailing list for talk announcements, send a message to **<jianzhelin@nyu.edu>** with the words subscribe vidarg-l. You will be invited by google calendar.
 
 ### Upcoming presentations
 
