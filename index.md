@@ -4,6 +4,10 @@
 
 &emsp;**Date** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Presenter** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Topic and Paper**
 ```markdown 
+Mar. 4, 2021        Joao Lucas Rulff          Analytic categorization of image
+                                              ii-20: intelligent and pragmatic analytic categorization of image collections
+```
+```markdown 
 Apr. 27, 2021        Eric K. Tokuda           Benchmark
                                               Visual Road: A Video Data Management Benchmark
 ```
