@@ -4,6 +4,22 @@
 
 &emsp;**Date** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Presenter** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **Topic and Paper**
 ```markdown 
+Sep. 21, 2021        Arthur                   Player tendency analysis
+                                              NBA	Lineup	Analysis	on	Clustered	Player Tendencies: A	new	approach
+```
+```markdown 
+Sep. 14, 2021        Jorge Wagner             AR Visualization
+                                              Towards an Understanding of Situated AR Visualization for Basketball Free-Throw Training
+```
+```markdown 
+Sep. 7, 2021        Shuya Zhao                Trajectory forecasting
+                                              Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks
+```
+```markdown 
+Aug. 31, 2021        Manuel Lagunas            Material appearance applications
+                                              Deep Learning for Material Appearance Applications, Modeling, and Perception
+```
+```markdown 
 Mar. 4, 2021        Joao Lucas Rulff          Analytic categorization of image
                                               ii-20: intelligent and pragmatic analytic categorization of image collections
 ```
